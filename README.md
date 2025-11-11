@@ -1,2 +1,1 @@
-# QueBrau-uncg.github.io
-My developer portfolio
+# f25-portfolio-template
